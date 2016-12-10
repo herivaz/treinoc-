@@ -1,0 +1,2 @@
+# treinoc-
+exercicio simples
